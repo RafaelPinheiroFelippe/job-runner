@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagement", "UserManagement\UserManagement.csproj", "{9ABB2D49-0AD2-4A70-9EAB-58CD34A4A2D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagement.Tests", "UserManagement.Tests\UserManagement.Tests.csproj", "{BC4E0812-76C7-4D4D-96ED-5D615C2BE4CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{0E350EA3-4786-435F-BC11-9F3A3B5ECD33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ABB2D49-0AD2-4A70-9EAB-58CD34A4A2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABB2D49-0AD2-4A70-9EAB-58CD34A4A2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABB2D49-0AD2-4A70-9EAB-58CD34A4A2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABB2D49-0AD2-4A70-9EAB-58CD34A4A2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC4E0812-76C7-4D4D-96ED-5D615C2BE4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4E0812-76C7-4D4D-96ED-5D615C2BE4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4E0812-76C7-4D4D-96ED-5D615C2BE4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4E0812-76C7-4D4D-96ED-5D615C2BE4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BC4E0812-76C7-4D4D-96ED-5D615C2BE4CE} = {0E350EA3-4786-435F-BC11-9F3A3B5ECD33}
+	EndGlobalSection
+EndGlobal
